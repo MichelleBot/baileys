@@ -7612,6 +7612,10 @@ export const proto = $root.proto = (() => {
             values[valuesById[63] = "UNIFIED_RESPONSE_MARKDOWN_LINKS_ENABLED"] = 63;
             values[valuesById[64] = "AI_RICH_RESPONSE_MAPS_V2_ENABLED"] = 64;
             values[valuesById[65] = "AI_SUBSCRIPTION_METERING_ENABLED"] = 65;
+            values[valuesById[66] = "RICH_RESPONSE_SPORTS_WIDGET_ENABLED"] = 66;
+            values[valuesById[67] = "AI_RICH_RESPONSE_ARTIFACTS_ENABLED"] = 67;
+            values[valuesById[68] = "AI_RICH_RESPONSE_EMAIL_CALENDAR_ENABLED"] = 68;
+            values[valuesById[69] = "AI_RICH_RESPONSE_REMINDERS_ENABLED"] = 69;
             return values;
         })();
 
